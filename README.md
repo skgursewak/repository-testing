@@ -1,1 +1,2 @@
 # repository-testing
+class
